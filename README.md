@@ -1,4 +1,5 @@
-
+This is the official code repository of SPORT: Structure-Aware Prototype Disentanglement
+for Incomplete Multi-View Clustering
 
 ```
 SPORT/
