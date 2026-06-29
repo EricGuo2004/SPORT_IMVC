@@ -25,7 +25,7 @@ python main.py --i_d 3 --missrate 0.3 --seed 12 \
 
 ---
 
- 3. Digit4k Dataset
+## 3. Digit4k Dataset
 
 ```bash
 python main.py --i_d 20 --missrate 0.5 --seed 42 \
@@ -36,7 +36,7 @@ python main.py --i_d 20 --missrate 0.5 --seed 42 \
 
 ---
 
-4. Leaves100 Dataset
+## 4. 100Leaves Dataset
 
 ```bash
 python main.py --i_d 8 --missrate 0.5 --seed 42 \
