@@ -9,7 +9,8 @@ SPORT/
 ├── network.py             
 ├── datasets.py             
 ├── utils.py                
-├── README.md               
+├── README.md
+├── run_commands.md                             
 └── Dataset/                
     ├── animal.mat
     ├── ALOI_100_7.mat
